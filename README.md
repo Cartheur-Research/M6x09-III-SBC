@@ -2,7 +2,12 @@
 
 Third-Generation board manifesting duals for multicomputing
 
-## What is this idea of _the multicomputer_ all about?
+### Current Status
+
+* The [design](/design/README.md)
+* The [layout](/design/layout.md)
+
+### What is this idea of _the multicomputer_ all about?
 
 _Multiprocessor_
 
