@@ -236,4 +236,6 @@ The board should be laid out as follows:
 
 * The ground plane should be as large as possible to reduce noise.
 
-I hope this helps!
+-----
+
+The next step is only one at a time.
