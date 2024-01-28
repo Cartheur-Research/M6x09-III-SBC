@@ -7,6 +7,13 @@ Third-Generation board manifesting duals for multicomputing
 * The [design](/design/README.md)
 * The [layout](/design/layout.md)
 
+### Conundrum
+
+* The 6x09 is ready for wirewrapping-up and testing.
+* The 68HC11 is a 48-pin DIP that only one is in stock from the supplier. The last round had this coming in March.
+
+The first needs to be tested, then we can evolve toward the second. This is the clear path forward.
+
 ### What is this idea of _the multicomputer_ all about?
 
 _Multiprocessor_
