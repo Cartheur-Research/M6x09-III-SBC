@@ -7,6 +7,8 @@ Third-Generation board manifesting duals for multicomputing
 * The [design](/design/README.md)
 * The [layout](/design/layout.md)
 
+The OS will be similar to IPS, written in Forth.
+
 ### Conundrum
 
 * The 6x09 is ready for wirewrapping-up and testing.
