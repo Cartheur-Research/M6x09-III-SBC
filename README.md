@@ -7,7 +7,7 @@ Third-Generation board manifesting duals for multicomputing
 * The [design](/design/README.md)
 * The [layout](/design/layout.md)
 
-The OS will be similar to IPS, written in Forth.
+The OS will be similar to [IPS](https://www.abebooks.co.uk/9781096992158/IPS-Forth-like-Language-Space-High-1096992159/plp), written in Forth.
 
 ### Conundrum
 
