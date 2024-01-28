@@ -1,6 +1,6 @@
 ## A dual-cpu SBC
 
-Asking the AI
+Design scratch...
 
 Provide me a schematic for a dual-cpu 6809 single-board computer with 62256 RAM, 27C256 ROM, and a 6850 UART.
 
