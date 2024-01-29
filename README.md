@@ -1,6 +1,6 @@
 ## M6x09-III-SBC
 
-Third-Generation board for multicomputing in space where the operand focus is _the 16-bit stack_. For the 6809 there would be a stepwise linear process from 8-bit registers but from the 6309 we can combine for this in the prototypical version of III-SBC.
+Third-Generation board for multicomputing in space where the operand focus is _the 16-bit stack_. For the 6809 there would be a stepwise linear process from 8-bit registers but from the 6309 we can combine for this in the prototypical version of III-SBC. Hence, why many of these repositories that contain different aspects of this project go by the handle _6x09_.
 
 ### Current Status
 
