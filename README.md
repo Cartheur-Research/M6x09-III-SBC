@@ -1,6 +1,6 @@
 ## M6x09-III-SBC
 
-Third-Generation board manifesting duals for multicomputing
+Third-Generation board manifesting duals for multicomputing where the operand focus is _the stack_.
 
 ### Current Status
 
