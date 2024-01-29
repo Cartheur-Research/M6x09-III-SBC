@@ -11,7 +11,12 @@ The development process will be similar to [IPS](https://www.abebooks.co.uk/9781
 
 ### Strategy at the present time
 
-* Begin with CamelForth/09 then evolve [thusly](https://www.forth.com/embedded/).
+* Begin with CamelForth/09 in the current hardware possibilities.
+    - Build for [II-SBC](https://github.com/cartheur/M6x09-II-SBC). Figure out that daft Xeltek ROM burner.
+    - Correlate [I-SBC](https://github.com/cartheur/M6x09-I-SBC) for replication.
+    - Present here.
+* Take the next step with [68HC11](https://github.com/cartheur/M68HC11).
+    - Liason with [these](https://www.forth.com/embedded/).
 
 ### Evolutionary notes
 
