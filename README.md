@@ -11,10 +11,11 @@ The OS will be similar to [IPS](https://www.abebooks.co.uk/9781096992158/IPS-For
 
 Begin with CamelForth/09 then evolve [thusly](https://www.forth.com/embedded/).
 
-### Conundrum
+### Evolutionary notes
 
-* The 6x09 is ready for wirewrapping-up and testing.
+* The 6x09 is ready for wirewrapping-up and testing. Begin by replicating Rodriguez' work on [multicomputing](https://github.com/cartheur/M6809-multicomputer).
 * The 68HC11 is a 48-pin DIP that only one is in stock from the supplier. The last round had this coming in March.
+    - SwiftForth is available in the 68HC11 format.
 
 The first needs to be tested, then we can evolve toward the second. This is the clear path forward.
 
