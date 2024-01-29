@@ -9,6 +9,8 @@ Third-Generation board manifesting duals for multicomputing
 
 The OS will be similar to [IPS](https://www.abebooks.co.uk/9781096992158/IPS-Forth-like-Language-Space-High-1096992159/plp), written in Forth.
 
+Begin with CamelForth/09 then evolve [thusly](https://www.forth.com/embedded/).
+
 ### Conundrum
 
 * The 6x09 is ready for wirewrapping-up and testing.
