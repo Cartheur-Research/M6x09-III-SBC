@@ -9,7 +9,9 @@ Third-Generation board for multicomputing in space where the operand focus is _t
 
 The development process will be similar to [IPS](https://www.abebooks.co.uk/9781096992158/IPS-Forth-like-Language-Space-High-1096992159/plp), cross-compiled between debian and Forth.
 
-Begin with CamelForth/09 then evolve [thusly](https://www.forth.com/embedded/).
+### Strategy at the present time
+
+* Begin with CamelForth/09 then evolve [thusly](https://www.forth.com/embedded/).
 
 ### Evolutionary notes
 
