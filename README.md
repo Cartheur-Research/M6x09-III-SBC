@@ -7,7 +7,7 @@ Third-Generation board for multicomputing in space where the operand focus is _t
 * The [design](/design/README.md)
 * The [layout](/design/layout.md)
 
-The development process will be similar to [IPS](https://www.abebooks.co.uk/9781096992158/IPS-Forth-like-Language-Space-High-1096992159/plp), cross-compiled between debian and Forth.
+The development process will be similar to [IPS](https://www.abebooks.co.uk/9781096992158/IPS-Forth-like-Language-Space-High-1096992159/plp), cross-compiled between debian and Forth. Native prototyping to be developed in CP/M...yes, CP/M.
 
 ### A sneak-peek
 
